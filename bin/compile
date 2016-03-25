@@ -139,6 +139,7 @@ EOF
 #
 # Extras
 #
+npm install gulp
 
 # source scripts in 'extra' dir, if any.  Create them for custom stuff like
 # binary dependencies, phantomjs for spiderable, etc.
